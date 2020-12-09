@@ -1,0 +1,6 @@
+Hi my name is Ryjen.
+
+I am a adept JavaScript developer. with experience from the FinTech industry.
+I was hired as an intern for three months, to a very small product team. After a month, I was hired on as a fulltime JavaScript developer. Since I started, the team has more than doubled. At first my tasks were pretty simple - maintaining the website, support the marketing team. After a few weeks, I earned more and more responsibilty which culminated into me leading my own project building an internal tool for factoring invoices.
+
+I am looking for a fast paced environment, with a lot of ambition and goals. I am an extremely fast learner, and I want room to grow and earn more responsibilty. I want to work in a close-knit team, where it is as common to work on your own, as it is to pair program. I want the opportunity to learn from senior members across teams, not just frontend. And finally, I want to work with fun and challenging projects, the last thing I want is a role where you do the same thing day after day.
